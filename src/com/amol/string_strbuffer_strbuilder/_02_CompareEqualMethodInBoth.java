@@ -1,6 +1,6 @@
 package com.amol.string_strbuffer_strbuilder;
 
-public class CompareEqualMethodInBoth {
+public class _02_CompareEqualMethodInBoth {
     public static void main(String[] args) {
 
         // String

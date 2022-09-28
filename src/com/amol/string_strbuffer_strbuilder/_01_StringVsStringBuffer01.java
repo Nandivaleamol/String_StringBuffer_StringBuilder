@@ -1,6 +1,6 @@
 package com.amol.string_strbuffer_strbuilder;
 
-public class StringVsStringBuffer01 {
+public class _01_StringVsStringBuffer01 {
     public static void main(String[] args) {
 
         // String object: It is Immutable in nature which is nothing but we can't perform any operation on same object.
